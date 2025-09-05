@@ -1,0 +1,108 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "Fibonacci",
+      "request": "launch",
+      "mainClass": "Fibonacci",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "Armstrong",
+      "request": "launch",
+      "mainClass": "Armstrong",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "CountDigits",
+      "request": "launch",
+      "mainClass": "CountDigits",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "CanteenManagement",
+      "request": "launch",
+      "mainClass": "CanteenManagement",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "ReversePositive",
+      "request": "launch",
+      "mainClass": "ReversePositive",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Reverse",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "Factorial",
+      "request": "launch",
+      "mainClass": "Factorial",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "TableMul",
+      "request": "launch",
+      "mainClass": "TableMul",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "name": "C/C++: g++.exe build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\msys64\\ucrt64\\bin\\gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "C/C++: g++.exe build active file"
+    }
+  ],
+  "version": "2.0.0"
+}
