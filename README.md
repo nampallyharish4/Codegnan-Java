@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">This repository contains all my assignment submissions for CODEGNAN JAVA FULL STACK (Core Java). Each assignment is organized in its own file(.java) with the code, report, and instructions.</h2>
+<h2 align="left">This repository contains all my assignment submissions for CODEGNAN IT SOLUTIONS for JAVA FULL STACK (Core Java). Each assignment is organized in its own file(.java) with the code, report, and instructions.</h2>
 
 ###
 
