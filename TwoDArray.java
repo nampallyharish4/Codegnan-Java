@@ -7,5 +7,12 @@ public class TwoDArray {
             }
             System.out.println();
         }
+        System.out.println("PRINTING ENHANCED FOR LOOP");
+        for (int[] row:numbers){
+            for (int x:row){
+                System.out.print(x + " ");
+            }
+            System.out.println();
+        }
     }
 }
