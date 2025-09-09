@@ -1,4 +1,3 @@
-package com.javavote;
 
 public class DaimondPattern {
 

@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SwitchExample",
+      "request": "launch",
+      "mainClass": "SwitchExample",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
       "name": "SumofArray",
       "request": "launch",
       "mainClass": "SumofArray",

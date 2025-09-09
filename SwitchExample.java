@@ -1,4 +1,4 @@
-package com.javavote;
+
 
 import java.util.Scanner;
 
