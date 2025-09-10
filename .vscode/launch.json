@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DiamondPatternBorder",
+      "request": "launch",
+      "mainClass": "DiamondPatternBorder",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "DaimondPatternBorder",
+      "request": "launch",
+      "mainClass": "DaimondPatternBorder",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
       "name": "SwitchExample",
       "request": "launch",
       "mainClass": "SwitchExample",
