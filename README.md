@@ -8,10 +8,28 @@
 
 Here are all my assignments with links to the respective files:
 
-1. [Assignment 1](./Palindrome.java)
-2. [Assignment 2](./Assignment2.java)
-3. [Assignment 3](./Assignment3.java)
-4. [Assignment 4](./Assignment4.java)
+1. [Palindrome.java](./Palindrome.java)  
+2. [Armstrong.java](./Armstrong.java)  
+3. [AtmExample.java](./AtmExample.java)  
+4. [ButterflyPattern.java](./ButterflyPattern.java)  
+5. [CanteenManagement.java](./CanteenManagement.java)  
+6. [CommonEndArraysOfArrays.java](./CommonEndArraysOfArrays.java)  
+7. [CountDigits.java](./CountDigits.java)  
+8. [DaimondPattern.java](./DaimondPattern.java)  
+9. [DiamondPatternBorder.java](./DiamondPatternBorder.java)  
+10. [Factorial.java](./Factorial.java)  
+11. [Fibonacci.java](./Fibonacci.java)  
+12. [FirstSecondSum.java](./FirstSecondSum.java)  
+13. [MaxEnd3Loop.java](./MaxEnd3Loop.java)  
+14. [MoveZerosToEnd.java](./MoveZerosToEnd.java)  
+15. [ReversePositive.java](./ReversePositive.java)  
+16. [RotateLeft3.java](./RotateLeft3.java)  
+17. [SumofArray.java](./SumofArray.java)  
+18. [SwitchExample.java](./SwitchExample.java)  
+19. [TableMul.java](./TableMul.java)  
+20. [TwoDArray.java](./TwoDArray.java)  
+21. [UserInputArray.java](./UserInputArray.java)
+
 
 *(Add more assignments as needed)*
 
