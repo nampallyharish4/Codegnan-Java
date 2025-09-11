@@ -8,7 +8,7 @@
 
 Here are all my assignments with links to the respective files:
 
-1. [Assignment 1](./Assignment1.java)
+1. [Assignment 1](./Palindrome.java)
 2. [Assignment 2](./Assignment2.java)
 3. [Assignment 3](./Assignment3.java)
 4. [Assignment 4](./Assignment4.java)
