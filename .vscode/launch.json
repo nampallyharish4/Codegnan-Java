@@ -2,6 +2,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CommonEndArraysOfArrays",
+      "request": "launch",
+      "mainClass": "CommonEndArraysOfArrays",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "MaxEnd3Loop",
+      "request": "launch",
+      "mainClass": "MaxEnd3Loop",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "FirstSecondSum",
+      "request": "launch",
+      "mainClass": "FirstSecondSum",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "MoveZerosToEnd",
+      "request": "launch",
+      "mainClass": "MoveZerosToEnd",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
+      "name": "RotateAnArray",
+      "request": "launch",
+      "mainClass": "RotateAnArray",
+      "projectName": "JAVA_72d9c41b"
+    },
+    {
+      "type": "java",
       "name": "DiamondPatternBorder",
       "request": "launch",
       "mainClass": "DiamondPatternBorder",
