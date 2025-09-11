@@ -31,7 +31,6 @@ Here are all my assignments with links to the respective files:
 21. [UserInputArray.java](./UserInputArray.java)
 
 
-*(Add more assignments as needed)*
 
 ---
 
